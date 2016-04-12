@@ -117,8 +117,8 @@ Interface\Aggro_Pulled_Aggro
 
 30300-2
 - Added a bunch more tradeskills
-- New pets: PandarenPet.  Damn I hate that thing.
-- New mounts: Mammoth, MechaStrider, MotorcycleVehicle, Ram - both the jump-in-place and idle loop.  Not completely tested, may have muted too much.
+- New pets: Pandaren Panda, Perky Pug,
+- New mounts: Mammoth, MechaStrider, Motorcycle, Ram - both the jump-in-place and idle loop.  Not completely tested, may have muted too much.
 - New flying mounts: RocketMount, Gyrocopter idle standing and idle flying loops.  Untested.
 - Removed Chakra.  This pre-cast sound also removes the sound from various other spells.
 -- Thanks to http://wow.curse.com/downloads/wow-addons/details/humbuzz-b-gone.aspx
