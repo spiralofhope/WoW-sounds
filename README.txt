@@ -17,6 +17,8 @@ If you want muted sounds, check out
 -- TO DO
 --
 
+- remove the fucking repair mount noises
+
 Completely silence the login screen
 - http://www.wowinterface.com/downloads/info11123-SilentLoginScreen.html#info is Wrath..
 Ambience\..
