@@ -9,40 +9,40 @@ http://wow.curse.com/downloads/wow-addons/details/audiox.aspx
 
 To use, simply unzip this to your "World of Warcraft\Data\Sound" directory.  By default, this directory is completely empty.  On startup, when appropriately-named .wav files are seen by the game, it will use the new sound instead.
 
+If you want muted sounds, check out
+- combat only:  http://www.wowinterface.com/downloads/info18781-MutedSounds-combatonly.html
+- all:  http://www.wowinterface.com/downloads/info18782-MutedSounds-all.html
+
 --
 -- TO DO
 --
 
+Completely silence the login screen
+- http://www.wowinterface.com/downloads/info11123-SilentLoginScreen.html#info is Wrath..
+Ambience\..
+
+
 Additional mount jump-in-place sounds:
-- Charger (Death Knight)
-- Mechano Hog (motorcycle)
 - Cat.. (and cat growl thing, are there any other similar sounds?)
+-- the new guild cat mount
 - Pony
-- Perhaps the new sparkly-scam mount
+- horse..
 - ... all the Horde stuff
 - more?
-- the celestial horse
-- harp sound (piccolo)
-
-Mount idle sounds:
-- Mechano Hog
-- rocket
-- copter
-- more?
+- silithid pet combat sounds
 
 Emotes:
 - chicken
 
 Misc:
+- the mana table ambient sound
+- harp sound (piccolo)
 - Dual-requests
-- The opening dragon sound (yes it's doable!)
-- I've probably muted too much for tradeskills.  I may be able to mute _others_ without muting _onesself_.
+- I've probably muted too much for tradeskills.  I may be able to mute _others_ without muting _onesself_.  To be researched..
 - Disenchanting
-- Learn what the RocketMount idle-flying loop is, if any.  Needs to be tested.  I don't want to mute the regular flying sound, just the idle-flying sound.
 - smelting, the generic crafting sound (like with blacksmiths making grinding stones)
 - enchanting
 - The pet-summoning whistle (hunter pet, crusader non-combat)
-- "Lil' Smokey" non-combat pet
 - mini thor non-combat pet
 
 
@@ -50,7 +50,7 @@ Misc:
 -- POSSIBLY-CONTROVERCIAL CHANGES
 --
 
-The login sound:
+The music at the login screen:
 Music\cataclysm\MUS_Shattering_UU01.mp3
 
 Tradeskills\CookingPrepareA..C
@@ -125,5 +125,11 @@ Interface\Aggro_Pulled_Aggro
 - Removed the /train sound
 -- Thanks to http://www.wowinterface.com/downloads/info12077-TrainWreck.html
 - Water elemental idle sound.
+- Mount and dismount sound (Spells\SpiritWolf.wav)
+-- Thanks to http://wow.curse.com/downloads/wow-addons/details/mountnoise-b-gone.aspx
+- More mount stuff: Mekgineer's Chopper, Mimiron's Head (actual Mimiron too), Turbo-Charged Flying Machine Control, Goblin Turbo-Trike.  I chose to keep the actual movement and combat/sidecar-dismount sounds though.
+-- Thanks to http://www.wowinterface.com/downloads/info16194-QuietMounts.html
+- Lil' XT (and the real XT002 Deconstructor)
+-- Thanks to http://wowinterface.com/downloads/info16491-SilentXT.html
 
 30300-1
