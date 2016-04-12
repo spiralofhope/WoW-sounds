@@ -131,5 +131,7 @@ Interface\Aggro_Pulled_Aggro
 -- Thanks to http://www.wowinterface.com/downloads/info16194-QuietMounts.html
 - Lil' XT (and the real XT002 Deconstructor)
 -- Thanks to http://wowinterface.com/downloads/info16491-SilentXT.html
+- ALL mount "specials"
+-- Especially the turtle mount special - the stupid squeaky plastic cartoon sound.
 
 30300-1
