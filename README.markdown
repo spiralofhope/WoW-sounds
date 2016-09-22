@@ -1,5 +1,6 @@
 Modifications (mostly muting) various World of Warcraft sounds.
 
+
 # Intro
 
 I was sick and tired of a whole range of sounds.  I did a lot of searching and I found "Silencer" for Hunter guns.  From there, I was able to hunt down a number of annoying sounds and package them all together.
@@ -12,6 +13,11 @@ If you want muted sounds, check out:
 
   - [Muted Sounds - Combat](http://www.wowinterface.com/downloads/info18781)
   - [Muted Sounds - Everything](http://www.wowinterface.com/downloads/info18782)
+
+
+# Installation/Usage
+
+Copy the `Sound` folder to your World of Warcraft folder.  For me, it becomes `C:\Program Files (x86)\World of Warcraft\Sound`
 
 
 # Possibly-controversial changes
