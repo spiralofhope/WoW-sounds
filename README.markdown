@@ -1,6 +1,6 @@
 Modifications (mostly muting) various World of Warcraft sounds.
 
-= Intro
+# Intro
 
 I was sick and tired of a whole range of sounds.  I did a lot of searching and I found "Silencer" for Hunter guns.  From there, I was able to hunt down a number of annoying sounds and package them all together.
 
@@ -14,7 +14,7 @@ If you want muted sounds, check out:
   - [Muted Sounds - Everything](http://www.wowinterface.com/downloads/info18782)
 
 
-= Possibly-controversial changes
+# Possibly-controversial changes
 
 - `Tradeskills\CookingPrepareA..C`
 - `Tradeskills\AlchemyCraftingA..C`
@@ -38,7 +38,7 @@ The error sounds:
 - `Spells\Fizzle\*`
 
 
-= Misc
+# Misc
 
 - Blacksmiths at anvils (forced to mute both players and NPCs)
 
@@ -54,7 +54,7 @@ The error sounds:
 - [Worgen Sniff Mute](http://wowinterface.com/downloads/info18989)
 
 
-= Mounts
+# Mounts
 
 - [Quiet That Horse!](http://wow.curse.com/downloads/wow-addons/details/qth.aspx) (down)
   -  The shriek of the Death Knight Charger being summoned was novel and interesting for a while, but it quickly grew incredibly grating. This tiny modification changes the spell noise to a more subdued, but still atmospheric, roll of muted thunder.
