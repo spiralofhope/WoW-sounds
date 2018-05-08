@@ -29,7 +29,7 @@
 
 - chicken
 
-## Misc
+## Misc / unsorted
 
 - mute blingtron(s)
 - mute the repair mount
@@ -58,3 +58,5 @@
 - the shaman crit-clang
 - the dino mounts
 - complete the misdirect muting.. there's another part that needs to be muted.
+- pet corgi dog (bark)
+- character draenai dance (clapping)
