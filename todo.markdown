@@ -1,3 +1,5 @@
+http://www.wowhead.com/sounds
+
 # Notes
 
 - `Interface\Aggro_Enter_Warning_State`
@@ -60,3 +62,4 @@
 - complete the misdirect muting.. there's another part that needs to be muted.
 - pet corgi dog (bark)
 - character draenai dance (clapping)
+- Audit [Mute Annoying WoW Sounds](https://wow.curseforge.com/projects/29869)
