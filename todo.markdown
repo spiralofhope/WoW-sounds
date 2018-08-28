@@ -63,3 +63,4 @@ http://www.wowhead.com/sounds
 - pet corgi dog (bark)
 - character draenai dance (clapping)
 - Audit [Mute Annoying WoW Sounds](https://wow.curseforge.com/projects/29869)
+- Risen Saber Kitten
