@@ -5,17 +5,20 @@ http://www.wowhead.com/sounds
 - `Interface\Aggro_Enter_Warning_State`
 - `Interface\Aggro_Pulled_Aggro`
 
+
 # 7.0.3
 
 - Mute the mechanical raptor stomping
   - (No More Stomp Sounds)[https://wow.curseforge.com/addons/nmss/] was abandoned.
 - Move all these into github tickets?
 
+
 # pre-7.0.3
 
 - Completely silence the login screen
   -  http://www.wowinterface.com/downloads/info11123-SilentLoginScreen.html#info isWrath..
       Ambience\..
+
 
 ## Mute additional mount jump-in-place sounds
 
@@ -27,9 +30,11 @@ http://www.wowhead.com/sounds
 - more?
 - silithid pet combat sounds
 
+
 ## Emotes
 
 - chicken
+
 
 ## Misc / unsorted
 
