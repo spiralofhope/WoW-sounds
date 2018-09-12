@@ -64,3 +64,7 @@ http://www.wowhead.com/sounds
 - character draenai dance (clapping)
 - Audit [Mute Annoying WoW Sounds](https://wow.curseforge.com/projects/29869)
 - Risen Saber Kitten
+- Tournament Favor
+  -  https://www.wowhead.com/item=130169
+- Party Totem
+  -  https://www.wowhead.com/item=163210
