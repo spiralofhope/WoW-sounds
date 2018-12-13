@@ -61,7 +61,6 @@ http://www.wowhead.com/sounds
 - the new warlock swirly on the ground sound
 - the monkey pet combat sound
 - the jade panther and other such jewelcrafting pets, jump-in-place roar sound.
-- pandaren and wargen /train  -- and everyone else, check.
 - the shaman crit-clang
 - the dino mounts
 - complete the misdirect muting.. there's another part that needs to be muted.

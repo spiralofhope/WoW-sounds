@@ -2,6 +2,13 @@
 
 `git log` is another good way to peer into the innards of this repository.
 
+## 8.0 series
+
+### 8.1
+
+- Pandaren /train
+- Worgen /train
+
 
 ## 7.0.3 series
 
