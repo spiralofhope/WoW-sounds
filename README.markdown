@@ -7,7 +7,7 @@ I was sick and tired of a whole range of sounds.  I did a lot of searching and I
 
 With many thanks to [AudioX II](https://wow.curseforge.com/projects/20522), without which this would have been bloody annoying to do.
 
-To use, simply unzip this to your `World of Warcraft\Data\Sound` directory.  By default, this directory is completely empty.  On startup, when appropriately-named `.ogg` files are seen by the game, it will use the new sound instead.
+To use, simply unzip this to your `World of Warcraft\Data\Sound\_retail_` directory.  By default, this directory is completely empty.  On startup, when appropriately-named `.ogg` files are seen by the game, it will use the new sound instead.
 
 If you want muted sounds, check out:
 
