@@ -4,6 +4,11 @@
 
 ## 8.0 series
 
+## 8.2.1
+
+- Added a script to mute sounds by code.
+
+
 ### 8.1
 
 - Pandaren /train
