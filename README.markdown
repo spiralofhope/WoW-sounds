@@ -74,3 +74,24 @@ The error sounds:
   - Elekk
   - Horse
   - Tyrael's Charger
+
+
+# Manually muting
+
+You can do something like this:
+
+```
+local sounds = {
+	569772,  -- sound/spells/fizzle/fizzleholya.ogg
+	569773,  -- sound/spells/fizzle/fizzlefirea.ogg
+	569774,  -- sound/spells/fizzle/fizzlenaturea.ogg
+	569775,  -- sound/spells/fizzle/fizzlefrosta.ogg
+	569776,  -- sound/spells/fizzle/fizzleshadowa.ogg
+}
+
+for _, fdid in pairs(sounds) do
+	MuteSoundFile(fdid)
+end
+```
+
+This will work until you restart the client.
