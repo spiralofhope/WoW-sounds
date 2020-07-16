@@ -1,13 +1,10 @@
 Modifications (mostly muting) various World of Warcraft sounds.
 
 
+
 # Intro
 
-I was sick and tired of a whole range of sounds.  I did a lot of searching and I found "Silencer" for Hunter guns.  From there, I was able to hunt down a number of annoying sounds and package them all together.
-
 With many thanks to [AudioX II](https://wow.curseforge.com/projects/20522), without which this would have been bloody annoying to do.
-
-To use, simply unzip this to your `World of Warcraft\Data\Sound\_retail_` directory.  By default, this directory is completely empty.  On startup, when appropriately-named `.ogg` files are seen by the game, it will use the new sound instead.
 
 If you want muted sounds, check out:
 
@@ -15,9 +12,17 @@ If you want muted sounds, check out:
   - [Muted Sounds - Everything](http://www.wowinterface.com/downloads/info18782)
 
 
+
 # Installation/Usage
 
-Copy the `Sound` folder to your World of Warcraft folder.  For me, it becomes `C:\Program Files (x86)\World of Warcraft\Sound`
+This is not an AddOn.
+
+To install/use it, unzip this to your `World of Warcraft\Data\Sound\_retail_` directory.  Perhaps that is `C:\Program Files (x86)\World of Warcraft\_retail_\Sound`.
+
+By default, this `Sound` directory is completely empty.  On startup, when appropriately-named `.ogg` files are seen by the game, it will use those new sounds instead.
+
+There are no in-game options.  If you want to make your own changes, you'll have to delve into the structure of your `Sound` directory and remove or replace your choice of `.ogg` files.
+
 
 
 # Possibly-controversial changes
@@ -44,6 +49,7 @@ The error sounds:
 - `Spells\Fizzle\*`
 
 
+
 # Misc
 
 - Blacksmiths at anvils (forced to mute both players and NPCs)
@@ -60,13 +66,14 @@ The error sounds:
 - [Worgen Sniff Mute](http://wowinterface.com/downloads/info18989)
 
 
+
 # Mounts
 
 - [Rockdelver's](https://www.curseforge.com/members/Rockdelver) Quiet That Horse!
   -  [archive](https://web.archive.org/web/20091208065745/wow.curse.com/downloads/wow-addons/details/qth.aspx)
   -  [down](http://wow.curse.com/downloads/wow-addons/details/qth.aspx)
   -  [down](https://www.curseforge.com/projects/qth/)
-  -  The shriek of the Death Knight Charger being summoned was novel and interesting for a while, but it quickly grew incredibly grating. This tiny modification changes the spell noise to a more subdued, but still atmospheric, roll of muted thunder.
+  -  "The shriek of the Death Knight Charger being summoned was novel and interesting for a while, but it quickly grew incredibly grating. This tiny modification changes the spell noise to a more subdued, but still atmospheric, roll of muted thunder."
   -  Quiet That Horse! was re-used for the paladin mount
   -  I notice there is [Kill That Horse!](https://www.curseforge.com/projects/19772), which was not checked.  It is `Spells\DeathKnight_SummonWarHorse_Impact_Base.ogg`
 
@@ -76,9 +83,10 @@ The error sounds:
   - Tyrael's Charger
 
 
-# Manually muting
 
-You can do something like this:
+# Manually muting with LUA code
+
+This example code will work until you restart the client:
 
 ```
 local sounds = {
@@ -89,9 +97,9 @@ local sounds = {
 	569776,  -- sound/spells/fizzle/fizzleshadowa.ogg
 }
 
-for _, fdid in pairs(sounds) do
-	MuteSoundFile(fdid)
+for _, fdid in pairs( sounds ) do
+	MuteSoundFile( fdid )
 end
 ```
 
-This will work until you restart the client.
+If you wanted something that is re-applied every restart, then you'd have to use an AddOn of some kind, like [DevPad](https://github.com/spiralofhope/_DevPad/)
