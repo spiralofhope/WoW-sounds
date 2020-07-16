@@ -102,4 +102,4 @@ for _, fdid in pairs( sounds ) do
 end
 ```
 
-If you wanted something that is re-applied every restart, then you'd have to use an AddOn of some kind, like [DevPad](https://github.com/spiralofhope/_DevPad/)
+If you wanted something that is re-applied every restart, then you'd have to use an AddOn like [DevPad](https://github.com/spiralofhope/_DevPad/).

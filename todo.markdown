@@ -22,13 +22,15 @@ http://www.wowhead.com/sounds
 
 ## Mute additional mount jump-in-place sounds
 
-- Cat.. (and cat growl thing, are there any other similar sounds?)
-  - the new guild cat mount
+- Cat
+  -  jump-in-place growl
+  -  the new guild cat mount
+  -  the jade panther and other such jewelcrafting pets
 - Pony
+- silithid pet combat sounds
 - horse..
 - ... all the Horde stuff
 - more?
-- silithid pet combat sounds
 
 
 ## Emotes
@@ -38,9 +40,14 @@ http://www.wowhead.com/sounds
 
 ## Misc / unsorted
 
+- the frigid frostling companion has an annoying background hum
+- Risen Saber Kitten
+- the gunfire sound from that one pet..
+- pet corgi dog (bark)
+- mini thor non-combat pet
+- mute the sunflower pet
 - mute blingtron(s)
 - mute the repair mount
-- mute the sunflower pet
 - the mana table ambient sound
 - harp sound (piccolo)
 - Dual-requests
@@ -49,25 +56,17 @@ http://www.wowhead.com/sounds
 - smelting, the generic crafting sound (like with blacksmiths making grinding stones)
 - enchanting
 - The pet-summoning whistle (hunter pet, crusader non-combat)
-- mini thor non-combat pet
+- the monkey combat pet combat sound
 - harp
 - sweeping broom
-- big cat mount yawn
-- the sunflower pet
 - the arcane table..
-- the gunfire sound from that one pet..
-- the frigid frostling companion has an annoying background hum
+- the dino mounts
 - vicious war steed jump sound isn't muted
 - the new warlock swirly on the ground sound
-- the monkey pet combat sound
-- the jade panther and other such jewelcrafting pets, jump-in-place roar sound.
 - the shaman crit-clang
-- the dino mounts
 - complete the misdirect muting.. there's another part that needs to be muted.
-- pet corgi dog (bark)
 - character draenai dance (clapping)
 - Audit [Mute Annoying WoW Sounds](https://wow.curseforge.com/projects/29869)
-- Risen Saber Kitten
 - Tournament Favor
   -  https://www.wowhead.com/item=130169
 - Party Totem
