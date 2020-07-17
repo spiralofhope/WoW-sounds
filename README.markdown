@@ -1,8 +1,6 @@
-Modifications (mostly muting) various World of Warcraft sounds.
-
-
-
 # Intro
+
+Modifications (mostly muting) various World of Warcraft sounds.
 
 With many thanks to [AudioX II](https://wow.curseforge.com/projects/20522), without which this would have been bloody annoying to do.
 
@@ -10,6 +8,7 @@ If you want muted sounds, check out:
 
   - [Muted Sounds - Combat](http://www.wowinterface.com/downloads/info18781)
   - [Muted Sounds - Everything](http://www.wowinterface.com/downloads/info18782)
+  - [Muted Sounds -LEG](https://www.wowinterface.com/downloads/info21893-finalversion.html)
 
 
 
@@ -70,9 +69,8 @@ The error sounds:
 # Mounts
 
 - [Rockdelver's](https://www.curseforge.com/members/Rockdelver) Quiet That Horse!
-  -  [archive](https://web.archive.org/web/20091208065745/wow.curse.com/downloads/wow-addons/details/qth.aspx)
-  -  [down](http://wow.curse.com/downloads/wow-addons/details/qth.aspx)
-  -  [down](https://www.curseforge.com/projects/qth/)
+  -  [archive, curse.com](https://web.archive.org/web/20091208065745/wow.curse.com/downloads/wow-addons/details/qth.aspx)
+  -  [archive, curseforge.com](https://web.archive.org/web/*/https://www.curseforge.com/projects/qth/)
   -  "The shriek of the Death Knight Charger being summoned was novel and interesting for a while, but it quickly grew incredibly grating. This tiny modification changes the spell noise to a more subdued, but still atmospheric, roll of muted thunder."
   -  Quiet That Horse! was re-used for the paladin mount
   -  I notice there is [Kill That Horse!](https://www.curseforge.com/projects/19772), which was not checked.  It is `Spells\DeathKnight_SummonWarHorse_Impact_Base.ogg`
